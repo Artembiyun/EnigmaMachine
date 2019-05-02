@@ -27,7 +27,7 @@ class App extends Component {
     this.EnigmaString = this.EnigmaString.bind(this);
     this.submit = this.submit.bind(this);
     this.state = {
-      Enigma: "BENIS"
+      Enigma: "TESTTESTTESTTEST"
     }
   }
     EnigmaString(s){
